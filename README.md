@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brittanymia
 - 👀 I’m interested in building interactive and responsive sites
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on projects that are small since I am still learning
+- 💞️ I’m looking to continue to build my developer skills by contributing to open-source projects
 - 📫 How to reach me ... @brittany.harden15@gmail.com
 
 <!---
